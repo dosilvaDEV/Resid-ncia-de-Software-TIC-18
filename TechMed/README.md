@@ -10,4 +10,4 @@ Repositório referente às práticas em grupo da residência na trilha de .NET.
 - Náthalie Lima
 
   ### Repositorio de origen
-  https://github.com/NathalieLima/RTIC18-dotNet-G1/tree/ResTIConnect
+  https://github.com/NathalieLima/RTIC18-dotNet-G1
